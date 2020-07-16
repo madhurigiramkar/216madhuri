@@ -1,11 +1,11 @@
-first=10
-second=20
+first=7
+second=5
 
-#  sum of two no
-print(f"here we are sum of two no   {first+second}")
 
-# difference of two no
-print(f"here we are diff of two no   {first-second}")
+# integer value
+print(first/second)
 
-# product of two no
-print(f"here we are product of two no   {first*second}")
+
+
+# float value
+print(first/second)
